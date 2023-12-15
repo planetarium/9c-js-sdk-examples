@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "@types/node": "^20.10.4",
+    "dotenv": "^16.3.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "@planetarium/account": "^3.9.2",
+    "@planetarium/bencodex": "^0.2.2",
+    "@planetarium/lib9c-wasm": "^0.0.3",
+    "@planetarium/tx": "^3.9.2",
+    "axios": "^1.6.2"
+  }
+}
